@@ -1,12 +1,12 @@
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
+def my_collect(array)
+i = 0
 
+yield(array[i])
+name.split(" ").first
 
-#
-# yield(array[i])
-# name.split(" ").first
-#
-# end
+end
 
 
  def my_collect(array)
